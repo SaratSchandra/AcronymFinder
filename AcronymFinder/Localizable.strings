@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AcronymFinder
+
+  Created by SaratS on 10/04/17.
+  Copyright © 2017 SaratS. All rights reserved.
+*/
+
+"HeaderText" = "Meanings for \"%@\"";
+"NoResultsTitle" = "No results";
+"NoResultsMessage" = "Sorry! Couldn't find any meaning for \"%@\". Please try different text.";
+"AlertTitleOK" = "OK";
+"FetchingMeaningsProgressMessage" = "Fetching meanings";
